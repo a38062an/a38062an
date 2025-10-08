@@ -1,6 +1,4 @@
-<div align="center">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/University_of_Manchester_logo.svg" alt="University of Manchester" width="300"/>
+![University of Manchester](https://upload.wikimedia.org/wikipedia/en/5/5a/University_of_Manchester_logo.png)
 
 # 👋 Hi, I'm Anthony Nguyen
 
@@ -8,8 +6,6 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthony.nguyen@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anthony-nguyen)
-
-</div>
 
 ---
 
@@ -43,7 +39,5 @@ A resource management system designed for efficient allocation and coordination 
 ---
 
 <div align="center">
-
-💡 Always learning, always building
-
+  💡 Always learning, always building
 </div>
