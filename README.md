@@ -1,4 +1,4 @@
-![University of Manchester](https://upload.wikimedia.org/wikipedia/en/5/5a/University_of_Manchester_logo.png)
+:mortar_board:
 
 # 👋 Hi, I'm Anthony Nguyen
 
@@ -17,19 +17,15 @@
 ## 🚀 Featured Projects
 
 ### [Order Book with GUI](https://github.com/a38062an/OrderBook)
-
 Building advanced order book infrastructure with focus on low-latency execution and market data processing.
 
 ### [Branch Predictor](https://github.com/a38062an/Branch_Predictor)
-
 Implemented sophisticated branch prediction algorithms to optimize CPU performance in modern architectures.
 
 ### [Matrix Optimisation](https://github.com/a38062an/Matrix_Optimisation)
-
 Developed highly optimized matrix operations using assembly language and SIMD instructions for maximum performance.
 
 ### [Atomic Resource Broker](https://github.com/a38062an/Atomic_Resource_Broker)
-
 A resource management system designed for efficient allocation and coordination in distributed environments.
 
 ---
