@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Anthony Nguyen
 
-### Passionate about systems engineering, ML, and software development with a general interest in developing robust solutions.
+### Passionate about systems engineering, ML, software development, and system architecture with a general interest in developing robust solutions.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/University_of_Manchester_logo.svg" alt="University of Manchester" width="150"/>
 
@@ -16,7 +16,6 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🚀_C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -29,14 +28,17 @@
 
 ## 🚀 Featured Projects
 
-### 📈 [Trading Platform](https://github.com/a38062an/OrderBook)
-Building advanced trading infrastructure with focus on low-latency execution and market data processing.
+### [Order Book with GUI](https://github.com/a38062an/OrderBook)
+Building advanced order book infrastructure with focus on low-latency execution and market data processing.
 
-### 🔮 [Branch Predictor](https://github.com/a38062an/Branch_Predictor)
+### [Branch Predictor](https://github.com/a38062an/Branch_Predictor)
 Implemented sophisticated branch prediction algorithms to optimize CPU performance in modern architectures.
 
-### ⚡ [Matrix Optimisation](https://github.com/a38062an/Matrix_Optimisation)
+### [Matrix Optimisation](https://github.com/a38062an/Matrix_Optimisation)
 Developed highly optimized matrix operations using assembly language and SIMD instructions for maximum performance.
+
+### [Atomic Resource Broker](https://github.com/a38062an/Atomic_Resource_Broker)
+A resource management system designed for efficient allocation and coordination in distributed environments.
 
 ---
 
