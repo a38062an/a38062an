@@ -1,10 +1,10 @@
 <div align="center">
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/University_of_Manchester_logo.svg" alt="University of Manchester" width="300"/>
+
 # 👋 Hi, I'm Anthony Nguyen
 
 ### Passionate about systems engineering, ML, software development, and system architecture with a general interest in developing robust solutions.
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/University_of_Manchester_logo.svg" alt="University of Manchester" width="150"/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthony.nguyen@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anthony-nguyen)
