@@ -1,6 +1,6 @@
-:mortar_board:
 
-# 👋 Hi, I'm Anthony Nguyen
+
+# Hi, I'm Anthony 
 
 ### Passionate about systems engineering, ML, software development, and system architecture with a general interest in developing robust solutions.
 
@@ -8,13 +8,13 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [Order Book with GUI](https://github.com/a38062an/OrderBook)
 Building advanced order book infrastructure with focus on low-latency execution and market data processing.
@@ -29,5 +29,3 @@ Developed highly optimized matrix operations using assembly language and SIMD in
 A resource management system designed for efficient allocation and coordination in distributed environments.
 
 ---
-
-💡 Always learning, always building
