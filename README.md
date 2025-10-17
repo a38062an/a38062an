@@ -10,14 +10,11 @@
 
 **![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
----
-
-## Languages Used in Major Projects
+### Most Used Languages
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1b344a83-287c-4dc5-acc9-b802e69ae6cb" alt="Language Distribution in Projects" width="600"/>
-  <br>
-  <em>Distribution of programming languages across my major repositories, reflecting expertise in systems programming and full-stack development.</em>
+  <img src="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/19367c54e556535e05f42d128e5eac4b/b3704125-4a1d-483a-9b33-0b2e9d37f83a/6b83a0da.png" alt="Most Used Languages" width="700"/>
+  <p><em>Main programming languages used across my key projects.</em></p>
 </div>
 
 ---
