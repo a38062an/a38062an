@@ -1,25 +1,28 @@
-# Hi, I'm Anthony 
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Coat_of_arms_of_the_University_of_Manchester.svg" alt="University of Manchester" width="80" align="left" style="margin-right: 20px;"/>
+  
+  # Anthony Nguyen | Computer Science at University of Manchester
+  
+  <p><em>Passionate about systems engineering, ML, and software development with a focus on building robust, high-performance solutions</em></p>
+</div>
 
-### Passionate about systems engineering, ML, software development, and system architecture with a general interest in developing robust solutions.
+---
+
+## 🔗 Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aduyanhn@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anthony-nguyen)
 
 ---
 
-## Tech Stack
-
-**![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-
-### Most Used Languages
+## 💻 Main Languages
 
 <div align="center">
-  <img src="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/19367c54e556535e05f42d128e5eac4b/b3704125-4a1d-483a-9b33-0b2e9d37f83a/6b83a0da.png" alt="Most Used Languages" width="700"/>
-  <p><em>Main programming languages used across my key projects.</em></p>
+  <img src="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/be7fc9ce5dca2581354ff2e409653dcd/489958ce-39e1-475e-ab42-a65d19b74d62/fa5e9a47.png" alt="Main Languages" width="600"/>
 </div>
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### [Order Book with GUI](https://github.com/a38062an/OrderBook)
 Building advanced order book infrastructure with focus on low-latency execution and market data processing.
@@ -32,5 +35,3 @@ Developed highly optimized matrix operations using assembly language and SIMD in
 
 ### [Atomic Resource Broker](https://github.com/a38062an/Atomic_Resource_Broker)
 A resource management system designed for efficient allocation and coordination in distributed environments.
-
----
