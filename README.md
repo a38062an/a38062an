@@ -1,10 +1,6 @@
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Coat_of_arms_of_the_University_of_Manchester.svg" alt="University of Manchester" width="80" align="left" style="margin-right: 20px;"/>
-  
-  # Anthony Nguyen | Computer Science at University of Manchester
-  
-  <p><em>Passionate about systems engineering, ML, and software development with a focus on building robust, high-performance solutions</em></p>
-</div>
+# Anthony Nguyen | Computer Science at University of Manchester
+
+<p align="center"><em>Passionate about systems engineering, ML, and software development with a focus on building robust, high-performance solutions</em></p>
 
 ---
 
@@ -17,7 +13,7 @@
 ## 💻 Main Languages
 
 <div align="center">
-  <img src="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/be7fc9ce5dca2581354ff2e409653dcd/489958ce-39e1-475e-ab42-a65d19b74d62/fa5e9a47.png" alt="Main Languages" width="600"/>
+  <img src="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/c05390d581ec08e07615c65e755a74f8/ad1aa1e6-ce94-451b-a37a-2d1241aa6f31/2c5673b4.png" alt="Main Languages" width="600"/>
 </div>
 
 ---
