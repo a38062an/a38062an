@@ -46,3 +46,6 @@ Developed highly optimized matrix operations using assembly language and SIMD in
 
 ### [Atomic Resource Broker](https://github.com/a38062an/Atomic_Resource_Broker)
 A resource management system designed for efficient allocation and coordination in distributed environments.
+
+### [ShowSpace Event Manager](https://github.com/a38062an/ShowSpace-Event-Manager)
+Cloud-native Spring Boot event manager with RESTful API, AWS ECS automation, and secure venue/event management.
