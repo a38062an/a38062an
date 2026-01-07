@@ -12,9 +12,6 @@
 
 ## Main Languages
 
-<div align="center">
-  <img src="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/c05390d581ec08e07615c65e755a74f8/ad1aa1e6-ce94-451b-a37a-2d1241aa6f31/2c5673b4.png" alt="Main Languages" width="600"/>
-</div>
 
 <div align="center">
   
